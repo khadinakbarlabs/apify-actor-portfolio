@@ -1,0 +1,2492 @@
+{
+  "schemaVersion": 1,
+  "generatedAt": "2026-08-08T10:45:25.358Z",
+  "owner": "khadinakbar",
+  "usageNote": "Open the Actor page to confirm current availability. The MCP entry point requires the access and availability enforced by Apify at connection time.",
+  "actors": [
+    {
+      "slug": "10times-events-scraper",
+      "title": "10times Events Scraper — Trade Shows & Conferences",
+      "actorUrl": "https://apify.com/khadinakbar/10times-events-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/10times-events-scraper"
+    },
+    {
+      "slug": "1688-product-listings-scraper",
+      "title": "1688 Product Listings Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/1688-product-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/1688-product-listings-scraper"
+    },
+    {
+      "slug": "2gis-places-scraper",
+      "title": "2GIS Places Scraper — No API Key Required",
+      "actorUrl": "https://apify.com/khadinakbar/2gis-places-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/2gis-places-scraper"
+    },
+    {
+      "slug": "agoda-reviews-scraper",
+      "title": "Agoda Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/agoda-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/agoda-reviews-scraper"
+    },
+    {
+      "slug": "ai-search-brand-monitor",
+      "title": "AI Brand Monitor — Perplexity, ChatGPT, Claude & Gemini",
+      "actorUrl": "https://apify.com/khadinakbar/ai-search-brand-monitor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-search-brand-monitor"
+    },
+    {
+      "slug": "ai-citations-tracker",
+      "title": "AI Citations Tracker — Perplexity Source Evidence",
+      "actorUrl": "https://apify.com/khadinakbar/ai-citations-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-citations-tracker"
+    },
+    {
+      "slug": "ai-overviews-tracker",
+      "title": "AI Overviews Tracker — Brand Visibility in AI Answers",
+      "actorUrl": "https://apify.com/khadinakbar/ai-overviews-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-overviews-tracker"
+    },
+    {
+      "slug": "ai-rank-tracker",
+      "title": "AI Rank Tracker - ChatGPT, Perplexity & Gemini",
+      "actorUrl": "https://apify.com/khadinakbar/ai-rank-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-rank-tracker"
+    },
+    {
+      "slug": "ai-search-visibility-tracker",
+      "title": "AI Search Visibility Tracker — AEO & Citation Audit",
+      "actorUrl": "https://apify.com/khadinakbar/ai-search-visibility-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-search-visibility-tracker"
+    },
+    {
+      "slug": "ai-seo-tracker",
+      "title": "AI SEO Tracker - Technical & AI Search Audit",
+      "actorUrl": "https://apify.com/khadinakbar/ai-seo-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-seo-tracker"
+    },
+    {
+      "slug": "ai-visibility-checker",
+      "title": "AI Visibility Checker — ChatGPT Web Search Mentions",
+      "actorUrl": "https://apify.com/khadinakbar/ai-visibility-checker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-visibility-checker"
+    },
+    {
+      "slug": "ai-visibility-tracker",
+      "title": "AI Visibility Tracker - Brand & Citation GEO",
+      "actorUrl": "https://apify.com/khadinakbar/ai-visibility-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ai-visibility-tracker"
+    },
+    {
+      "slug": "airbnb-calendar-availability-scraper",
+      "title": "Airbnb Calendar Availability Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/airbnb-calendar-availability-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/airbnb-calendar-availability-scraper"
+    },
+    {
+      "slug": "airbnb-reviews-scraper",
+      "title": "Airbnb Reviews Scraper — Ratings, Comments & Host Replies",
+      "actorUrl": "https://apify.com/khadinakbar/airbnb-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/airbnb-reviews-scraper"
+    },
+    {
+      "slug": "airbnb-scraper",
+      "title": "Airbnb Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/airbnb-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/airbnb-scraper"
+    },
+    {
+      "slug": "alibaba-listings-scraper",
+      "title": "Alibaba Listings Scraper — Suppliers, MOQ & Price",
+      "actorUrl": "https://apify.com/khadinakbar/alibaba-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/alibaba-listings-scraper"
+    },
+    {
+      "slug": "alibaba-products-scraper",
+      "title": "Alibaba Products Scraper — Suppliers, Prices & MOQ",
+      "actorUrl": "https://apify.com/khadinakbar/alibaba-products-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/alibaba-products-scraper"
+    },
+    {
+      "slug": "aliexpress-product-search-scraper",
+      "title": "AliExpress Product Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/aliexpress-product-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/aliexpress-product-search-scraper"
+    },
+    {
+      "slug": "aliexpress-all-in-one-scraper",
+      "title": "AliExpress Scraper — Products, Reviews & Sellers",
+      "actorUrl": "https://apify.com/khadinakbar/aliexpress-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/aliexpress-all-in-one-scraper"
+    },
+    {
+      "slug": "amazon-bestsellers-scraper",
+      "title": "Amazon Bestsellers Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-bestsellers-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-bestsellers-scraper"
+    },
+    {
+      "slug": "amazon-competitor-price-tracker",
+      "title": "Amazon Competitor Price Tracker",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-competitor-price-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-competitor-price-tracker"
+    },
+    {
+      "slug": "amazon-price-history-scraper",
+      "title": "Amazon Price History Scraper - ASIN Price Alerts",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-price-history-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-price-history-scraper"
+    },
+    {
+      "slug": "amazon-product-details-scraper",
+      "title": "Amazon Product Details Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-product-details-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-product-details-scraper"
+    },
+    {
+      "slug": "amazon-product-scraper",
+      "title": "Amazon Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-product-scraper"
+    },
+    {
+      "slug": "amazon-product-intelligence",
+      "title": "Amazon Product Scraper — Price, BSR, Reviews & Seller Data",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-product-intelligence",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-product-intelligence"
+    },
+    {
+      "slug": "amazon-product-search-scraper",
+      "title": "Amazon Product Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-product-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-product-search-scraper"
+    },
+    {
+      "slug": "amazon-reviews-scraper",
+      "title": "Amazon Reviews Scraper — Ratings & Sentiment",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-reviews-scraper"
+    },
+    {
+      "slug": "amazon-search-scraper",
+      "title": "Amazon Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-search-scraper"
+    },
+    {
+      "slug": "amazon-seller-email-scraper",
+      "title": "Amazon Seller Email Scraper — Public Contact Finder",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-seller-email-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-seller-email-scraper"
+    },
+    {
+      "slug": "amazon-seller-scraper",
+      "title": "Amazon Seller Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/amazon-seller-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/amazon-seller-scraper"
+    },
+    {
+      "slug": "apec-jobs-scraper",
+      "title": "APEC Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/apec-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/apec-jobs-scraper"
+    },
+    {
+      "slug": "appstore-reviews-scraper",
+      "title": "App Store Reviews Scraper - iOS & macOS Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/appstore-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/appstore-reviews-scraper"
+    },
+    {
+      "slug": "apple-app-store-all-in-one-scraper",
+      "title": "Apple App Store Scraper — Apps, Reviews & Charts",
+      "actorUrl": "https://apify.com/khadinakbar/apple-app-store-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/apple-app-store-all-in-one-scraper"
+    },
+    {
+      "slug": "ashby-jobs-scraper",
+      "title": "Ashby Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/ashby-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ashby-jobs-scraper"
+    },
+    {
+      "slug": "autotrader-scraper",
+      "title": "Autotrader Scraper — US Car Listings, Prices & Dealers",
+      "actorUrl": "https://apify.com/khadinakbar/autotrader-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/autotrader-scraper"
+    },
+    {
+      "slug": "autotrader-uk-scraper",
+      "title": "Autotrader UK Scraper — Car Listings, Prices & Dealers",
+      "actorUrl": "https://apify.com/khadinakbar/autotrader-uk-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/autotrader-uk-scraper"
+    },
+    {
+      "slug": "autotrader-ca-scraper",
+      "title": "AutoTrader.ca Scraper — Cars, Price, Mileage & Dealer",
+      "actorUrl": "https://apify.com/khadinakbar/autotrader-ca-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/autotrader-ca-scraper"
+    },
+    {
+      "slug": "avito-scraper",
+      "title": "Avito Scraper — Listings, Prices & Seller Details",
+      "actorUrl": "https://apify.com/khadinakbar/avito-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/avito-scraper"
+    },
+    {
+      "slug": "b2b-lead-finder-enrichment",
+      "title": "B2B Lead Finder – Verified Emails, Phone & Google Maps Data",
+      "actorUrl": "https://apify.com/khadinakbar/b2b-lead-finder-enrichment",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/b2b-lead-finder-enrichment"
+    },
+    {
+      "slug": "universal-lead-finder",
+      "title": "B2B Lead Finder — Emails, Phones & Contacts",
+      "actorUrl": "https://apify.com/khadinakbar/universal-lead-finder",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/universal-lead-finder"
+    },
+    {
+      "slug": "backlink-opportunity-finder",
+      "title": "Backlink Opportunity Finder",
+      "actorUrl": "https://apify.com/khadinakbar/backlink-opportunity-finder",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/backlink-opportunity-finder"
+    },
+    {
+      "slug": "bayt-jobs-scraper",
+      "title": "Bayt Jobs Data Scraper for MENA Listings",
+      "actorUrl": "https://apify.com/khadinakbar/bayt-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bayt-jobs-scraper"
+    },
+    {
+      "slug": "bayut-scraper",
+      "title": "Bayut Scraper — UAE Property Listings, Agents & Agencies",
+      "actorUrl": "https://apify.com/khadinakbar/bayut-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bayut-scraper"
+    },
+    {
+      "slug": "bbb-scraper",
+      "title": "BBB Scraper — Ratings, Accreditation & Contacts",
+      "actorUrl": "https://apify.com/khadinakbar/bbb-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bbb-scraper"
+    },
+    {
+      "slug": "beehiiv-newsletter-scraper",
+      "title": "Beehiiv Newsletter Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/beehiiv-newsletter-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/beehiiv-newsletter-scraper"
+    },
+    {
+      "slug": "bing-search-scraper",
+      "title": "Bing Search Scraper — Organic, Ads, Copilot AI Answer",
+      "actorUrl": "https://apify.com/khadinakbar/bing-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bing-search-scraper"
+    },
+    {
+      "slug": "bizbuysell-scraper",
+      "title": "BizBuySell Scraper — Business Listings & Financials",
+      "actorUrl": "https://apify.com/khadinakbar/bizbuysell-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bizbuysell-scraper"
+    },
+    {
+      "slug": "bloomberg-news-scraper",
+      "title": "Bloomberg News Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/bloomberg-news-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bloomberg-news-scraper"
+    },
+    {
+      "slug": "search-bluesky-posts",
+      "title": "Bluesky Post Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/search-bluesky-posts",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/search-bluesky-posts"
+    },
+    {
+      "slug": "bluesky-posts-scraper",
+      "title": "Bluesky Posts Scraper — Search, Feeds & Threads",
+      "actorUrl": "https://apify.com/khadinakbar/bluesky-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bluesky-posts-scraper"
+    },
+    {
+      "slug": "bluesky-profile-details-scraper",
+      "title": "Bluesky Profile Details Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/bluesky-profile-details-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bluesky-profile-details-scraper"
+    },
+    {
+      "slug": "booking-scraper-pro",
+      "title": "Booking Scraper PRO",
+      "actorUrl": "https://apify.com/khadinakbar/booking-scraper-pro",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/booking-scraper-pro"
+    },
+    {
+      "slug": "booking-reviews-scraper",
+      "title": "Booking.com Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/booking-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/booking-reviews-scraper"
+    },
+    {
+      "slug": "brand-sentiment-analyzer",
+      "title": "Brand Sentiment Analyzer — Reddit, News & Trustpilot",
+      "actorUrl": "https://apify.com/khadinakbar/brand-sentiment-analyzer",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/brand-sentiment-analyzer"
+    },
+    {
+      "slug": "broken-link-checker",
+      "title": "Broken Link Checker for Technical SEO Audits",
+      "actorUrl": "https://apify.com/khadinakbar/broken-link-checker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/broken-link-checker"
+    },
+    {
+      "slug": "built-in-jobs-scraper",
+      "title": "Built In Jobs Scraper — Hiring Intelligence Feed",
+      "actorUrl": "https://apify.com/khadinakbar/built-in-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/built-in-jobs-scraper"
+    },
+    {
+      "slug": "bulk-website-contact-extractor",
+      "title": "Bulk Website Contact Extractor – Emails, Phones & Socials",
+      "actorUrl": "https://apify.com/khadinakbar/bulk-website-contact-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bulk-website-contact-extractor"
+    },
+    {
+      "slug": "bundesagentur-job-scraper",
+      "title": "Bundesagentur Job Scraper — German Vacancies",
+      "actorUrl": "https://apify.com/khadinakbar/bundesagentur-job-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/bundesagentur-job-scraper"
+    },
+    {
+      "slug": "capterra-reviews-scraper",
+      "title": "Capterra Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/capterra-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/capterra-reviews-scraper"
+    },
+    {
+      "slug": "career-site-job-scraper",
+      "title": "Career Site Job Listing Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/career-site-job-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/career-site-job-scraper"
+    },
+    {
+      "slug": "cargurus-scraper",
+      "title": "CarGurus Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/cargurus-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/cargurus-scraper"
+    },
+    {
+      "slug": "chatgpt-gpt-store-scraper",
+      "title": "ChatGPT GPT Store Scraper — Custom GPT Market Intel",
+      "actorUrl": "https://apify.com/khadinakbar/chatgpt-gpt-store-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/chatgpt-gpt-store-scraper"
+    },
+    {
+      "slug": "checkatrade-scraper",
+      "title": "Checkatrade Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/checkatrade-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/checkatrade-scraper"
+    },
+    {
+      "slug": "clutch-listings-scraper",
+      "title": "Clutch Agencies Scraper — Ratings, Services & Pricing",
+      "actorUrl": "https://apify.com/khadinakbar/clutch-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/clutch-listings-scraper"
+    },
+    {
+      "slug": "clutch-reviews-scraper",
+      "title": "Clutch Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/clutch-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/clutch-reviews-scraper"
+    },
+    {
+      "slug": "clutch-scraper",
+      "title": "Clutch.co Scraper - Agency Leads, Ratings & Pricing",
+      "actorUrl": "https://apify.com/khadinakbar/clutch-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/clutch-scraper"
+    },
+    {
+      "slug": "coinmarketcap-crypto-scraper",
+      "title": "CoinMarketCap Crypto Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/coinmarketcap-crypto-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/coinmarketcap-crypto-scraper"
+    },
+    {
+      "slug": "contact-details-scraper",
+      "title": "Contact Details Scraper – (Emails, Phones & Socials)",
+      "actorUrl": "https://apify.com/khadinakbar/contact-details-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/contact-details-scraper"
+    },
+    {
+      "slug": "costco-scraper",
+      "title": "Costco Scraper — Prices, Item Numbers, Ratings & Specs",
+      "actorUrl": "https://apify.com/khadinakbar/costco-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/costco-scraper"
+    },
+    {
+      "slug": "coupang-scraper",
+      "title": "Coupang Product Listings Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/coupang-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/coupang-scraper"
+    },
+    {
+      "slug": "craigslist-all-in-one-scraper",
+      "title": "Craigslist Scraper — Jobs, Housing & For-Sale Listings",
+      "actorUrl": "https://apify.com/khadinakbar/craigslist-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/craigslist-all-in-one-scraper"
+    },
+    {
+      "slug": "crexi-commercial-real-estate-scraper",
+      "title": "Crexi Scraper — Commercial Real Estate Listings",
+      "actorUrl": "https://apify.com/khadinakbar/crexi-commercial-real-estate-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/crexi-commercial-real-estate-scraper"
+    },
+    {
+      "slug": "crexi-scraper",
+      "title": "Crexi Scraper — CRE Listings, Financials & Broker Leads",
+      "actorUrl": "https://apify.com/khadinakbar/crexi-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/crexi-scraper"
+    },
+    {
+      "slug": "crypto-price-tracker",
+      "title": "Crypto Price Tracker — BTC, ETH & 17K+ Altcoins",
+      "actorUrl": "https://apify.com/khadinakbar/crypto-price-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/crypto-price-tracker"
+    },
+    {
+      "slug": "dailymotion-video-downloader",
+      "title": "Dailymotion Video Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/dailymotion-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/dailymotion-video-downloader"
+    },
+    {
+      "slug": "dark-web-scraper",
+      "title": "Dark Web Scraper - Tor .onion Page Extractor",
+      "actorUrl": "https://apify.com/khadinakbar/dark-web-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/dark-web-scraper"
+    },
+    {
+      "slug": "depop-scraper",
+      "title": "Depop Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/depop-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/depop-scraper"
+    },
+    {
+      "slug": "dexscreener-realtime-monitor",
+      "title": "Dexscreener Realtime Monitor",
+      "actorUrl": "https://apify.com/khadinakbar/dexscreener-realtime-monitor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/dexscreener-realtime-monitor"
+    },
+    {
+      "slug": "dice-com-jobs-scraper",
+      "title": "Dice.com Jobs Scraper — Tech Hiring Feed",
+      "actorUrl": "https://apify.com/khadinakbar/dice-com-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/dice-com-jobs-scraper"
+    },
+    {
+      "slug": "discord-member-scraper",
+      "title": "Discord Member Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/discord-member-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/discord-member-scraper"
+    },
+    {
+      "slug": "discord-message-scraper",
+      "title": "Discord Message Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/discord-message-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/discord-message-scraper"
+    },
+    {
+      "slug": "discord-all-in-one-scraper",
+      "title": "Discord Scraper — Servers, Members & Channels",
+      "actorUrl": "https://apify.com/khadinakbar/discord-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/discord-all-in-one-scraper"
+    },
+    {
+      "slug": "discord-server-scraper",
+      "title": "Discord Server Scraper — Messages, Members & Channels",
+      "actorUrl": "https://apify.com/khadinakbar/discord-server-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/discord-server-scraper"
+    },
+    {
+      "slug": "domain-com-au-real-estate-scraper",
+      "title": "Domain.com.au Real Estate Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/domain-com-au-real-estate-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/domain-com-au-real-estate-scraper"
+    },
+    {
+      "slug": "douyin-profile-scraper",
+      "title": "Douyin Profile Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/douyin-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/douyin-profile-scraper"
+    },
+    {
+      "slug": "douyin-search-scraper",
+      "title": "Douyin Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/douyin-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/douyin-search-scraper"
+    },
+    {
+      "slug": "dnb-companies-scraper",
+      "title": "Dun & Bradstreet Companies Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/dnb-companies-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/dnb-companies-scraper"
+    },
+    {
+      "slug": "ebay-product-listing-scraper",
+      "title": "eBay Product Listing Scraper — Prices & Sellers (8 Markets)",
+      "actorUrl": "https://apify.com/khadinakbar/ebay-product-listing-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ebay-product-listing-scraper"
+    },
+    {
+      "slug": "ebay-all-in-one-scraper",
+      "title": "eBay Scraper - Listings, Sold Prices & Sellers (8 markets)",
+      "actorUrl": "https://apify.com/khadinakbar/ebay-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ebay-all-in-one-scraper"
+    },
+    {
+      "slug": "ebay-sold-comps-analytics-scraper",
+      "title": "eBay Sold Listings Scraper — Price Comps & Analytics",
+      "actorUrl": "https://apify.com/khadinakbar/ebay-sold-comps-analytics-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ebay-sold-comps-analytics-scraper"
+    },
+    {
+      "slug": "ecommerce-store-scraper",
+      "title": "Ecommerce Scraper — Shopify, WooCommerce & Any Store",
+      "actorUrl": "https://apify.com/khadinakbar/ecommerce-store-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ecommerce-store-scraper"
+    },
+    {
+      "slug": "email-address-validator",
+      "title": "Email Validator — Bulk MX, Disposable & Score",
+      "actorUrl": "https://apify.com/khadinakbar/email-address-validator",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/email-address-validator"
+    },
+    {
+      "slug": "etsy-keyword-research-tool",
+      "title": "Etsy Keyword Evidence Research Tool",
+      "actorUrl": "https://apify.com/khadinakbar/etsy-keyword-research-tool",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/etsy-keyword-research-tool"
+    },
+    {
+      "slug": "etsy-listings-scraper",
+      "title": "Etsy Listings Scraper - Search Results & URLs",
+      "actorUrl": "https://apify.com/khadinakbar/etsy-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/etsy-listings-scraper"
+    },
+    {
+      "slug": "etsy-product-search-scraper",
+      "title": "Etsy Product Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/etsy-product-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/etsy-product-search-scraper"
+    },
+    {
+      "slug": "etsy-reviews-scraper",
+      "title": "Etsy Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/etsy-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/etsy-reviews-scraper"
+    },
+    {
+      "slug": "etsy-all-in-one-scraper",
+      "title": "Etsy Scraper — Products, Prices, Reviews & Shop Data",
+      "actorUrl": "https://apify.com/khadinakbar/etsy-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/etsy-all-in-one-scraper"
+    },
+    {
+      "slug": "etsy-shop-details-scraper",
+      "title": "Etsy Shop Details Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/etsy-shop-details-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/etsy-shop-details-scraper"
+    },
+    {
+      "slug": "eventbrite-events-scraper",
+      "title": "Eventbrite Events Scraper — Tickets, Venues & Organizers",
+      "actorUrl": "https://apify.com/khadinakbar/eventbrite-events-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/eventbrite-events-scraper"
+    },
+    {
+      "slug": "expedia-hotels-scraper",
+      "title": "Expedia Hotels Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/expedia-hotels-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/expedia-hotels-scraper"
+    },
+    {
+      "slug": "facebook-ads-library-scraper",
+      "title": "Facebook Ads Library Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-ads-library-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-ads-library-scraper"
+    },
+    {
+      "slug": "facebook-followers-scraper",
+      "title": "Facebook Followers Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-followers-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-followers-scraper"
+    },
+    {
+      "slug": "facebook-group-members-scraper",
+      "title": "Facebook Group Members Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-group-members-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-group-members-scraper"
+    },
+    {
+      "slug": "facebook-group-posts-scraper",
+      "title": "Facebook Group Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-group-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-group-posts-scraper"
+    },
+    {
+      "slug": "facebook-groups-scraper",
+      "title": "Facebook Groups Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-groups-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-groups-scraper"
+    },
+    {
+      "slug": "facebook-groups-search-scraper",
+      "title": "Facebook Groups Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-groups-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-groups-search-scraper"
+    },
+    {
+      "slug": "facebook-hashtag-scraper",
+      "title": "Facebook Hashtag Scraper - Ad Library Search by Hashtag",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-hashtag-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-hashtag-scraper"
+    },
+    {
+      "slug": "facebook-likes-scraper",
+      "title": "Facebook Likes Scraper — Public Reactions & Profiles",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-likes-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-likes-scraper"
+    },
+    {
+      "slug": "facebook-marketplace-scraper",
+      "title": "Facebook Marketplace Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-marketplace-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-marketplace-scraper"
+    },
+    {
+      "slug": "facebook-page-scraper",
+      "title": "Facebook Page Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-page-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-page-scraper"
+    },
+    {
+      "slug": "facebook-comments-scraper",
+      "title": "Facebook Post Comments Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-comments-scraper"
+    },
+    {
+      "slug": "facebook-post-search-scraper",
+      "title": "Facebook Post Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-post-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-post-search-scraper"
+    },
+    {
+      "slug": "facebook-posts-scraper",
+      "title": "Facebook Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-posts-scraper"
+    },
+    {
+      "slug": "facebook-search-scraper",
+      "title": "Facebook Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-search-scraper"
+    },
+    {
+      "slug": "facebook-video-downloader",
+      "title": "Facebook Video Downloader - Reels & MP4 Links",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-video-downloader"
+    },
+    {
+      "slug": "facebook-video-transcript-extractor",
+      "title": "Facebook Video Transcript Extractor",
+      "actorUrl": "https://apify.com/khadinakbar/facebook-video-transcript-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/facebook-video-transcript-extractor"
+    },
+    {
+      "slug": "fandom-scraper",
+      "title": "Fandom Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/fandom-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/fandom-scraper"
+    },
+    {
+      "slug": "flashscore-scraper",
+      "title": "Flashscore Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/flashscore-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/flashscore-scraper"
+    },
+    {
+      "slug": "flipkart-listings-scraper",
+      "title": "Flipkart Listings Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/flipkart-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/flipkart-listings-scraper"
+    },
+    {
+      "slug": "flipkart-product-scraper",
+      "title": "Flipkart Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/flipkart-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/flipkart-product-scraper"
+    },
+    {
+      "slug": "flipkart-reviews-scraper",
+      "title": "Flipkart Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/flipkart-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/flipkart-reviews-scraper"
+    },
+    {
+      "slug": "foundit-jobs-scraper",
+      "title": "Foundit Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/foundit-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/foundit-jobs-scraper"
+    },
+    {
+      "slug": "fragrantica-scraper",
+      "title": "Fragrantica Scraper — Perfume Profiles & Notes",
+      "actorUrl": "https://apify.com/khadinakbar/fragrantica-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/fragrantica-scraper"
+    },
+    {
+      "slug": "funda-nl-scraper",
+      "title": "Funda.nl Scraper — Authorized Residential Listings",
+      "actorUrl": "https://apify.com/khadinakbar/funda-nl-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/funda-nl-scraper"
+    },
+    {
+      "slug": "g2-product-reviews-scraper",
+      "title": "G2 Reviews Scraper — Ratings, Pros & Cons",
+      "actorUrl": "https://apify.com/khadinakbar/g2-product-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/g2-product-reviews-scraper"
+    },
+    {
+      "slug": "gelbe-seiten-scraper",
+      "title": "Gelbe Seiten Business Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/gelbe-seiten-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/gelbe-seiten-scraper"
+    },
+    {
+      "slug": "github-deep-scraper",
+      "title": "GitHub Scraper — Repos, Issues, PRs & Code",
+      "actorUrl": "https://apify.com/khadinakbar/github-deep-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/github-deep-scraper"
+    },
+    {
+      "slug": "glassdoor-jobs-scraper",
+      "title": "Glassdoor Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/glassdoor-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/glassdoor-jobs-scraper"
+    },
+    {
+      "slug": "glassdoor-scraper",
+      "title": "Glassdoor Jobs, Reviews & Salary Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/glassdoor-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/glassdoor-scraper"
+    },
+    {
+      "slug": "glassdoor-reviews-scraper",
+      "title": "Glassdoor Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/glassdoor-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/glassdoor-reviews-scraper"
+    },
+    {
+      "slug": "goodreads-all-in-one-scraper",
+      "title": "Goodreads Scraper — Books, Reviews & Authors",
+      "actorUrl": "https://apify.com/khadinakbar/goodreads-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/goodreads-all-in-one-scraper"
+    },
+    {
+      "slug": "goofish-scraper",
+      "title": "Goofish Scraper — Xianyu C2C Listings, Item Detail & Seller",
+      "actorUrl": "https://apify.com/khadinakbar/goofish-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/goofish-scraper"
+    },
+    {
+      "slug": "google-ads-scraper",
+      "title": "Google Ads Scraper — Live Search Sponsored Ads",
+      "actorUrl": "https://apify.com/khadinakbar/google-ads-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-ads-scraper"
+    },
+    {
+      "slug": "google-ads-transparency-scraper",
+      "title": "Google Ads Transparency Scraper — Creatives & Run Dates",
+      "actorUrl": "https://apify.com/khadinakbar/google-ads-transparency-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-ads-transparency-scraper"
+    },
+    {
+      "slug": "google-ai-overviews-scraper",
+      "title": "Google AI Overviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/google-ai-overviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-ai-overviews-scraper"
+    },
+    {
+      "slug": "google-business-profile-audit",
+      "title": "Google Business Profile Audit — Completeness Score",
+      "actorUrl": "https://apify.com/khadinakbar/google-business-profile-audit",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-business-profile-audit"
+    },
+    {
+      "slug": "google-finance-stock-news-scraper",
+      "title": "Google Finance Scraper — Stock Prices, News & Market Data",
+      "actorUrl": "https://apify.com/khadinakbar/google-finance-stock-news-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-finance-stock-news-scraper"
+    },
+    {
+      "slug": "google-flights-scraper",
+      "title": "Google Flights Scraper — Fares, Routes, Booking Links",
+      "actorUrl": "https://apify.com/khadinakbar/google-flights-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-flights-scraper"
+    },
+    {
+      "slug": "google-images-scraper",
+      "title": "Google Images Scraper — Original URLs, Source & Size",
+      "actorUrl": "https://apify.com/khadinakbar/google-images-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-images-scraper"
+    },
+    {
+      "slug": "google-jobs-scraper",
+      "title": "Google Jobs Scraper — Salary, Apply Links & MCP-Ready",
+      "actorUrl": "https://apify.com/khadinakbar/google-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-jobs-scraper"
+    },
+    {
+      "slug": "google-maps-email-extractor",
+      "title": "Google Maps Email Extractor",
+      "actorUrl": "https://apify.com/khadinakbar/google-maps-email-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-maps-email-extractor"
+    },
+    {
+      "slug": "google-maps-extractor",
+      "title": "Google Maps Extractor",
+      "actorUrl": "https://apify.com/khadinakbar/google-maps-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-maps-extractor"
+    },
+    {
+      "slug": "google-maps-reviews-scraper",
+      "title": "Google Maps Reviews Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/google-maps-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-maps-reviews-scraper"
+    },
+    {
+      "slug": "google-maps-leads-scraper",
+      "title": "Google Maps Scraper — Emails, Phones & B2B Leads",
+      "actorUrl": "https://apify.com/khadinakbar/google-maps-leads-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-maps-leads-scraper"
+    },
+    {
+      "slug": "google-news-scraper",
+      "title": "Google News Scraper — Articles & Sources",
+      "actorUrl": "https://apify.com/khadinakbar/google-news-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-news-scraper"
+    },
+    {
+      "slug": "google-patents-scraper",
+      "title": "Google Patents Scraper — Search, Citations, Family Graph",
+      "actorUrl": "https://apify.com/khadinakbar/google-patents-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-patents-scraper"
+    },
+    {
+      "slug": "google-play-all-in-one-scraper",
+      "title": "Google Play Store Scraper — Apps, Reviews, Charts",
+      "actorUrl": "https://apify.com/khadinakbar/google-play-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-play-all-in-one-scraper"
+    },
+    {
+      "slug": "google-scholar-scraper",
+      "title": "Google Scholar Paper and Author Data Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/google-scholar-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-scholar-scraper"
+    },
+    {
+      "slug": "google-serp-all-in-one-scraper",
+      "title": "Google SERP Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/google-serp-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-serp-all-in-one-scraper"
+    },
+    {
+      "slug": "scrape-google-serp",
+      "title": "Google SERP Scraper — Search Results & SERP API",
+      "actorUrl": "https://apify.com/khadinakbar/scrape-google-serp",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/scrape-google-serp"
+    },
+    {
+      "slug": "google-shopping-scraper",
+      "title": "Google Shopping Scraper — Prices, Sellers & Deals",
+      "actorUrl": "https://apify.com/khadinakbar/google-shopping-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-shopping-scraper"
+    },
+    {
+      "slug": "google-trends-scraper",
+      "title": "Google Trends Scraper — Interest, Regions & Queries",
+      "actorUrl": "https://apify.com/khadinakbar/google-trends-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/google-trends-scraper"
+    },
+    {
+      "slug": "greenhouse-jobs-scraper",
+      "title": "Greenhouse Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/greenhouse-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/greenhouse-jobs-scraper"
+    },
+    {
+      "slug": "gulftalent-job-scraper",
+      "title": "GulfTalent Job Scraper — Hiring Signals",
+      "actorUrl": "https://apify.com/khadinakbar/gulftalent-job-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/gulftalent-job-scraper"
+    },
+    {
+      "slug": "gumroad-scraper",
+      "title": "Gumroad Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/gumroad-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/gumroad-scraper"
+    },
+    {
+      "slug": "handshake-jobs-scraper",
+      "title": "Handshake Jobs Scraper — Public Job Listings",
+      "actorUrl": "https://apify.com/khadinakbar/handshake-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/handshake-jobs-scraper"
+    },
+    {
+      "slug": "hellowork-jobs-scraper",
+      "title": "HelloWork Jobs Scraper — France Hiring Data",
+      "actorUrl": "https://apify.com/khadinakbar/hellowork-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/hellowork-jobs-scraper"
+    },
+    {
+      "slug": "hh-ru-jobs-scraper",
+      "title": "HH.RU Jobs Scraper — Russian Hiring Intelligence",
+      "actorUrl": "https://apify.com/khadinakbar/hh-ru-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/hh-ru-jobs-scraper"
+    },
+    {
+      "slug": "hiringcafe-jobs-scraper",
+      "title": "HiringCafe Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/hiringcafe-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/hiringcafe-jobs-scraper"
+    },
+    {
+      "slug": "home-depot-scraper",
+      "title": "Home Depot Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/home-depot-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/home-depot-scraper"
+    },
+    {
+      "slug": "hotels-com-scraper",
+      "title": "Hotels.com Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/hotels-com-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/hotels-com-scraper"
+    },
+    {
+      "slug": "housing-com-scraper",
+      "title": "Housing.com Scraper - Indian Property Listings",
+      "actorUrl": "https://apify.com/khadinakbar/housing-com-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/housing-com-scraper"
+    },
+    {
+      "slug": "houzz-scraper",
+      "title": "Houzz Pros Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/houzz-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/houzz-scraper"
+    },
+    {
+      "slug": "huggingface-all-in-one-scraper",
+      "title": "Hugging Face Scraper — Models, Datasets & Spaces",
+      "actorUrl": "https://apify.com/khadinakbar/huggingface-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/huggingface-all-in-one-scraper"
+    },
+    {
+      "slug": "idealista-scraper",
+      "title": "Idealista Scraper — Spain, Italy & Portugal Real Estate",
+      "actorUrl": "https://apify.com/khadinakbar/idealista-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/idealista-scraper"
+    },
+    {
+      "slug": "imdb-scraper",
+      "title": "IMDb Scraper — Titles, Cast, Ratings, Reviews & Search",
+      "actorUrl": "https://apify.com/khadinakbar/imdb-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/imdb-scraper"
+    },
+    {
+      "slug": "importyeti-scraper",
+      "title": "ImportYeti Scraper — US Customs Importer & Supplier Data",
+      "actorUrl": "https://apify.com/khadinakbar/importyeti-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/importyeti-scraper"
+    },
+    {
+      "slug": "indeed-job-scraper",
+      "title": "Indeed Job Scraper — Salaries, Remote & Full Details",
+      "actorUrl": "https://apify.com/khadinakbar/indeed-job-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/indeed-job-scraper"
+    },
+    {
+      "slug": "infojobs-jobs-scraper",
+      "title": "InfoJobs Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/infojobs-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/infojobs-jobs-scraper"
+    },
+    {
+      "slug": "instagram-audio-scraper",
+      "title": "Instagram Audio Scraper - Reels by Audio, Song & Sound",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-audio-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-audio-scraper"
+    },
+    {
+      "slug": "instagram-comments-scraper",
+      "title": "Instagram Comments Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-comments-scraper"
+    },
+    {
+      "slug": "instagram-followers-scraper",
+      "title": "Instagram Followers Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-followers-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-followers-scraper"
+    },
+    {
+      "slug": "instagram-following-scraper",
+      "title": "Instagram Following Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-following-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-following-scraper"
+    },
+    {
+      "slug": "instagram-hashtag-scraper",
+      "title": "Instagram Hashtag Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-hashtag-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-hashtag-scraper"
+    },
+    {
+      "slug": "instagram-keyword-search-scraper",
+      "title": "Instagram Keyword Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-keyword-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-keyword-search-scraper"
+    },
+    {
+      "slug": "instagram-likes-scraper",
+      "title": "Instagram Likes Scraper - Counts + Advanced Likers",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-likes-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-likes-scraper"
+    },
+    {
+      "slug": "instagram-posts-scraper",
+      "title": "Instagram Posts Scraper – Profiles, Hashtags & URLs",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-posts-scraper"
+    },
+    {
+      "slug": "instagram-profile-scraper",
+      "title": "Instagram Profile Scraper + Emails & Contacts",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-profile-scraper"
+    },
+    {
+      "slug": "instagram-reels-scraper",
+      "title": "Instagram Reels Scraper — Profiles, Hashtags & Keywords",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-reels-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-reels-scraper"
+    },
+    {
+      "slug": "instagram-transcript-scraper",
+      "title": "Instagram Transcript Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-transcript-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-transcript-scraper"
+    },
+    {
+      "slug": "instagram-trending-reels-scraper",
+      "title": "Instagram Trending Reels Research Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-trending-reels-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-trending-reels-scraper"
+    },
+    {
+      "slug": "instagram-user-scraper",
+      "title": "Instagram User Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-user-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-user-scraper"
+    },
+    {
+      "slug": "instagram-video-downloader",
+      "title": "Instagram Video Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/instagram-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/instagram-video-downloader"
+    },
+    {
+      "slug": "jobs-scraper",
+      "title": "Jobs Scraper — Indeed, LinkedIn & Glassdoor",
+      "actorUrl": "https://apify.com/khadinakbar/jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/jobs-scraper"
+    },
+    {
+      "slug": "jobs-sh-scraper",
+      "title": "Jobs SHZ Scraper — Schleswig-Holstein Vacancies",
+      "actorUrl": "https://apify.com/khadinakbar/jobs-sh-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/jobs-sh-scraper"
+    },
+    {
+      "slug": "jobsdb-jobs-scraper",
+      "title": "JobsDB Jobs Scraper — HK & Thailand Hiring Data",
+      "actorUrl": "https://apify.com/khadinakbar/jobsdb-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/jobsdb-jobs-scraper"
+    },
+    {
+      "slug": "jobstreet-jobs-scraper",
+      "title": "JobStreet Jobs Scraper — APAC Hiring Data",
+      "actorUrl": "https://apify.com/khadinakbar/jobstreet-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/jobstreet-jobs-scraper"
+    },
+    {
+      "slug": "jumia-product-scraper",
+      "title": "Jumia Product Scraper — Prices, SKUs & Sellers",
+      "actorUrl": "https://apify.com/khadinakbar/jumia-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/jumia-product-scraper"
+    },
+    {
+      "slug": "just-eat-restaurant-scraper",
+      "title": "Just Eat UK Restaurant Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/just-eat-restaurant-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/just-eat-restaurant-scraper"
+    },
+    {
+      "slug": "kayak-car-rental-scraper",
+      "title": "Kayak Car Rental Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/kayak-car-rental-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/kayak-car-rental-scraper"
+    },
+    {
+      "slug": "kayak-flights-scraper",
+      "title": "Kayak Flights Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/kayak-flights-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/kayak-flights-scraper"
+    },
+    {
+      "slug": "kickstarter-campaign-scraper",
+      "title": "Kickstarter Campaign Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/kickstarter-campaign-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/kickstarter-campaign-scraper"
+    },
+    {
+      "slug": "kununu-reviews-scraper",
+      "title": "Kununu Reviews Scraper — Employee Ratings & Feedback",
+      "actorUrl": "https://apify.com/khadinakbar/kununu-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/kununu-reviews-scraper"
+    },
+    {
+      "slug": "lazada-price-monitor",
+      "title": "Lazada Price Monitor & Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/lazada-price-monitor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/lazada-price-monitor"
+    },
+    {
+      "slug": "lazada-scraper",
+      "title": "Lazada Scraper — Prices, Ratings & Seller Data",
+      "actorUrl": "https://apify.com/khadinakbar/lazada-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/lazada-scraper"
+    },
+    {
+      "slug": "lead-finder-pro",
+      "title": "Lead Finder PRO — Public B2B Business Leads",
+      "actorUrl": "https://apify.com/khadinakbar/lead-finder-pro",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/lead-finder-pro"
+    },
+    {
+      "slug": "leboncoin-scraper",
+      "title": "Leboncoin Scraper - Listings, Prices & Sellers",
+      "actorUrl": "https://apify.com/khadinakbar/leboncoin-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/leboncoin-scraper"
+    },
+    {
+      "slug": "lever-jobs-scraper",
+      "title": "Lever Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/lever-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/lever-jobs-scraper"
+    },
+    {
+      "slug": "linkedin-ad-library-search-scraper",
+      "title": "LinkedIn Ad Library Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-ad-library-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-ad-library-search-scraper"
+    },
+    {
+      "slug": "linkedin-ads-scraper",
+      "title": "LinkedIn Ads Scraper (Ad Library)",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-ads-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-ads-scraper"
+    },
+    {
+      "slug": "linkedin-comments-scraper",
+      "title": "LinkedIn Comments Scraper - [✅ No Cookies]",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-comments-scraper"
+    },
+    {
+      "slug": "linkedin-company-details-scraper",
+      "title": "LinkedIn Company Details Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-company-details-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-company-details-scraper"
+    },
+    {
+      "slug": "linkedin-company-employee-scraper",
+      "title": "LinkedIn Company Employee Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-company-employee-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-company-employee-scraper"
+    },
+    {
+      "slug": "linkedin-company-jobs-scraper",
+      "title": "LinkedIn Company Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-company-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-company-jobs-scraper"
+    },
+    {
+      "slug": "linkedin-company-posts-scraper",
+      "title": "LinkedIn Company Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-company-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-company-posts-scraper"
+    },
+    {
+      "slug": "linkedin-company-profile-scraper",
+      "title": "LinkedIn Company Profile Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-company-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-company-profile-scraper"
+    },
+    {
+      "slug": "linkedin-company-search-scraper",
+      "title": "LinkedIn Company Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-company-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-company-search-scraper"
+    },
+    {
+      "slug": "linkedin-email-finder",
+      "title": "LinkedIn Email Finder",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-email-finder",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-email-finder"
+    },
+    {
+      "slug": "linkedin-jobs-scraper",
+      "title": "LinkedIn Jobs Scraper — Salary, Skills, Seniority & Easy Apply",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-jobs-scraper"
+    },
+    {
+      "slug": "linkedin-people-search-scraper",
+      "title": "LinkedIn People Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-people-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-people-search-scraper"
+    },
+    {
+      "slug": "linkedin-post-comments-engagements-scraper",
+      "title": "LinkedIn Post Comments & Engagements Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-post-comments-engagements-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-post-comments-engagements-scraper"
+    },
+    {
+      "slug": "linkedin-post-reactions-scraper",
+      "title": "LinkedIn Post Reactions Scraper - [✅ No Cookies]",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-post-reactions-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-post-reactions-scraper"
+    },
+    {
+      "slug": "linkedin-post-search-scraper",
+      "title": "LinkedIn Post Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-post-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-post-search-scraper"
+    },
+    {
+      "slug": "linkedin-posts-scraper",
+      "title": "LinkedIn Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-posts-scraper"
+    },
+    {
+      "slug": "linkedin-profile-comments-scraper",
+      "title": "LinkedIn Profile Comments Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-profile-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-profile-comments-scraper"
+    },
+    {
+      "slug": "linkedin-profile-details-scraper",
+      "title": "LinkedIn Profile Details Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-profile-details-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-profile-details-scraper"
+    },
+    {
+      "slug": "linkedin-profile-posts-scraper",
+      "title": "LinkedIn Profile Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-profile-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-profile-posts-scraper"
+    },
+    {
+      "slug": "linkedin-profile-email-scraper",
+      "title": "LinkedIn Profile Scraper & Email Finder 📧 ✅ No Login Required",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-profile-email-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-profile-email-scraper"
+    },
+    {
+      "slug": "linkedin-profile-search-scraper",
+      "title": "LinkedIn Profile Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-profile-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-profile-search-scraper"
+    },
+    {
+      "slug": "linkedin-sales-navigator-scraper",
+      "title": "LinkedIn Sales Navigator Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/linkedin-sales-navigator-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/linkedin-sales-navigator-scraper"
+    },
+    {
+      "slug": "llm-visibility-tracker",
+      "title": "LLM Brand Visibility and Citation Tracker",
+      "actorUrl": "https://apify.com/khadinakbar/llm-visibility-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/llm-visibility-tracker"
+    },
+    {
+      "slug": "local-citation-audit",
+      "title": "Local Citation Audit — NAP Consistency Across 15 Directories",
+      "actorUrl": "https://apify.com/khadinakbar/local-citation-audit",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/local-citation-audit"
+    },
+    {
+      "slug": "loom-transcript-scraper",
+      "title": "Loom Transcript Scraper - Captions to Text",
+      "actorUrl": "https://apify.com/khadinakbar/loom-transcript-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/loom-transcript-scraper"
+    },
+    {
+      "slug": "loom-video-downloader",
+      "title": "Loom Video Downloader - Public Stream Links",
+      "actorUrl": "https://apify.com/khadinakbar/loom-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/loom-video-downloader"
+    },
+    {
+      "slug": "loopnet-scraper",
+      "title": "LoopNet Scraper — CRE Listings, Prices & Details",
+      "actorUrl": "https://apify.com/khadinakbar/loopnet-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/loopnet-scraper"
+    },
+    {
+      "slug": "all-in-one-media-downloader",
+      "title": "Media Downloader - All-in-One Video, Audio and Metadata",
+      "actorUrl": "https://apify.com/khadinakbar/all-in-one-media-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/all-in-one-media-downloader"
+    },
+    {
+      "slug": "meetup-events-scraper",
+      "title": "Meetup Events Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/meetup-events-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/meetup-events-scraper"
+    },
+    {
+      "slug": "mercadolibre-all-in-one-scraper",
+      "title": "MercadoLibre Product and Seller Data Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/mercadolibre-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/mercadolibre-all-in-one-scraper"
+    },
+    {
+      "slug": "mercadolibre-search-scraper",
+      "title": "MercadoLibre Search Scraper — Price, Seller & Rating",
+      "actorUrl": "https://apify.com/khadinakbar/mercadolibre-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/mercadolibre-search-scraper"
+    },
+    {
+      "slug": "meta-ad-library-scraper",
+      "title": "Meta Ad Library Scraper — Ad Creatives, Spend & Targeting",
+      "actorUrl": "https://apify.com/khadinakbar/meta-ad-library-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/meta-ad-library-scraper"
+    },
+    {
+      "slug": "mobile-de-scraper",
+      "title": "Mobile.de Scraper — Vehicle Inventory Monitor",
+      "actorUrl": "https://apify.com/khadinakbar/mobile-de-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/mobile-de-scraper"
+    },
+    {
+      "slug": "monster-jobs-scraper",
+      "title": "Monster Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/monster-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/monster-jobs-scraper"
+    },
+    {
+      "slug": "multiple-job-board-scraper",
+      "title": "Multiple Job Board Scraper — Remote Job Search API",
+      "actorUrl": "https://apify.com/khadinakbar/multiple-job-board-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/multiple-job-board-scraper"
+    },
+    {
+      "slug": "myntra-product-scraper",
+      "title": "Myntra Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/myntra-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/myntra-product-scraper"
+    },
+    {
+      "slug": "myntra-product-search-scraper",
+      "title": "Myntra Product Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/myntra-product-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/myntra-product-search-scraper"
+    },
+    {
+      "slug": "naukri-jobs-scraper",
+      "title": "Naukri Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/naukri-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/naukri-jobs-scraper"
+    },
+    {
+      "slug": "naver-map-scraper",
+      "title": "Naver Map Scraper — Korean Places, Phone & Menus",
+      "actorUrl": "https://apify.com/khadinakbar/naver-map-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/naver-map-scraper"
+    },
+    {
+      "slug": "naver-product-shopping-scraper",
+      "title": "Naver Product Shopping Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/naver-product-shopping-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/naver-product-shopping-scraper"
+    },
+    {
+      "slug": "opentable-scraper",
+      "title": "OpenTable Scraper — Ratings, Reviews & Cuisine",
+      "actorUrl": "https://apify.com/khadinakbar/opentable-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/opentable-scraper"
+    },
+    {
+      "slug": "ozon-scraper",
+      "title": "Ozon Scraper — Russia Marketplace Products, Prices & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/ozon-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ozon-scraper"
+    },
+    {
+      "slug": "patreon-scraper",
+      "title": "Patreon Scraper — Creator Earnings, Tiers & Members",
+      "actorUrl": "https://apify.com/khadinakbar/patreon-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/patreon-scraper"
+    },
+    {
+      "slug": "phone-number-lookup-api",
+      "title": "Phone Number Lookup API",
+      "actorUrl": "https://apify.com/khadinakbar/phone-number-lookup-api",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/phone-number-lookup-api"
+    },
+    {
+      "slug": "pinterest-boards-scraper",
+      "title": "Pinterest Board Scraper — Board Pins & User Boards",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-boards-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-boards-scraper"
+    },
+    {
+      "slug": "pinterest-data-extractor",
+      "title": "Pinterest Data Extractor — Pins, Boards, Profiles, Keywords",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-data-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-data-extractor"
+    },
+    {
+      "slug": "pinterest-pins-scraper",
+      "title": "Pinterest Pins Scraper — Pin Details & Media",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-pins-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-pins-scraper"
+    },
+    {
+      "slug": "pinterest-scraper",
+      "title": "Pinterest Pins, Boards & Profiles Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-scraper"
+    },
+    {
+      "slug": "pinterest-profile-scraper",
+      "title": "Pinterest Profile Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-profile-scraper"
+    },
+    {
+      "slug": "pinterest-search-scraper",
+      "title": "Pinterest Search Scraper — Pins, Boards & Users",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-search-scraper"
+    },
+    {
+      "slug": "pinterest-video-downloader",
+      "title": "Pinterest Video Downloader — MP4 + HLS Links",
+      "actorUrl": "https://apify.com/khadinakbar/pinterest-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pinterest-video-downloader"
+    },
+    {
+      "slug": "pitchbook-scraper",
+      "title": "PitchBook Public Profile Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/pitchbook-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/pitchbook-scraper"
+    },
+    {
+      "slug": "playstation-store-scraper",
+      "title": "PlayStation Store Scraper — Games & Prices",
+      "actorUrl": "https://apify.com/khadinakbar/playstation-store-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/playstation-store-scraper"
+    },
+    {
+      "slug": "polymarket-leaderboard-scraper",
+      "title": "Polymarket Leaderboard Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/polymarket-leaderboard-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/polymarket-leaderboard-scraper"
+    },
+    {
+      "slug": "poshmark-listings-scraper",
+      "title": "Poshmark Listings Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/poshmark-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/poshmark-listings-scraper"
+    },
+    {
+      "slug": "practo-doctor-scraper",
+      "title": "Practo Doctor Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/practo-doctor-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/practo-doctor-scraper"
+    },
+    {
+      "slug": "producthunt-scraper-pro",
+      "title": "Product Hunt Scraper (with Email Enrichment)",
+      "actorUrl": "https://apify.com/khadinakbar/producthunt-scraper-pro",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/producthunt-scraper-pro"
+    },
+    {
+      "slug": "propertyfinder-scraper",
+      "title": "Property Finder Scraper — UAE & MENA Listings",
+      "actorUrl": "https://apify.com/khadinakbar/propertyfinder-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/propertyfinder-scraper"
+    },
+    {
+      "slug": "propertyfinder-agent-scraper",
+      "title": "Property Finder UAE Agent Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/propertyfinder-agent-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/propertyfinder-agent-scraper"
+    },
+    {
+      "slug": "propertyfinder-listings-scraper",
+      "title": "Property Finder UAE Listings Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/propertyfinder-listings-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/propertyfinder-listings-scraper"
+    },
+    {
+      "slug": "quora-scraper",
+      "title": "Quora Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/quora-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/quora-scraper"
+    },
+    {
+      "slug": "reddit-comments-scraper",
+      "title": "Reddit Comments Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-comments-scraper"
+    },
+    {
+      "slug": "reddit-comments-search-scraper",
+      "title": "Reddit Comments Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-comments-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-comments-search-scraper"
+    },
+    {
+      "slug": "reddit-media-downloader",
+      "title": "Reddit Media Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-media-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-media-downloader"
+    },
+    {
+      "slug": "reddit-posts-scraper",
+      "title": "Reddit Posts Scraper — Comments, Replies & Subreddits",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-posts-scraper"
+    },
+    {
+      "slug": "reddit-posts-search-scraper",
+      "title": "Reddit Posts Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-posts-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-posts-search-scraper"
+    },
+    {
+      "slug": "reddit-posts-comments-scraper",
+      "title": "Reddit Posts, Comments & Subreddit Analytics Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-posts-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-posts-comments-scraper"
+    },
+    {
+      "slug": "reddit-search-scraper",
+      "title": "Reddit Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-search-scraper"
+    },
+    {
+      "slug": "reddit-subreddit-scraper",
+      "title": "Reddit Subreddit Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-subreddit-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-subreddit-scraper"
+    },
+    {
+      "slug": "reddit-subreddit-search-scraper",
+      "title": "Reddit Subreddit Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-subreddit-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-subreddit-search-scraper"
+    },
+    {
+      "slug": "reddit-trends-scraper",
+      "title": "Reddit Trends Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/reddit-trends-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/reddit-trends-scraper"
+    },
+    {
+      "slug": "redfin-all-in-one-scraper",
+      "title": "Redfin Scraper — Active Listings & Sold Comps",
+      "actorUrl": "https://apify.com/khadinakbar/redfin-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/redfin-all-in-one-scraper"
+    },
+    {
+      "slug": "xiaohongshu-search-scraper",
+      "title": "RedNote Xiaohongshu Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/xiaohongshu-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/xiaohongshu-search-scraper"
+    },
+    {
+      "slug": "rightmove-all-in-one-scraper",
+      "title": "Rightmove Scraper - UK Property, Rent, Sold & Agents",
+      "actorUrl": "https://apify.com/khadinakbar/rightmove-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/rightmove-all-in-one-scraper"
+    },
+    {
+      "slug": "salesforce-appexchange-scraper",
+      "title": "Salesforce AppExchange Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/salesforce-appexchange-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/salesforce-appexchange-scraper"
+    },
+    {
+      "slug": "sam-gov-scraper",
+      "title": "SAM.gov Scraper — Federal Contract Opportunities",
+      "actorUrl": "https://apify.com/khadinakbar/sam-gov-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/sam-gov-scraper"
+    },
+    {
+      "slug": "apify-store-scraper",
+      "title": "Scrape Apify Store — All Actors with Stats & Pricing",
+      "actorUrl": "https://apify.com/khadinakbar/apify-store-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/apify-store-scraper"
+    },
+    {
+      "slug": "sec-edgar-all-in-one-scraper",
+      "title": "SEC EDGAR Scraper — 10-K, 8-K, Form 4 & 13F",
+      "actorUrl": "https://apify.com/khadinakbar/sec-edgar-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/sec-edgar-all-in-one-scraper"
+    },
+    {
+      "slug": "seek-job-scraper",
+      "title": "SEEK Job Scraper — Australia & New Zealand",
+      "actorUrl": "https://apify.com/khadinakbar/seek-job-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/seek-job-scraper"
+    },
+    {
+      "slug": "seo-domain-keyword-scraper",
+      "title": "SEO Domain & Keyword Scraper  (Semrush Alternative)",
+      "actorUrl": "https://apify.com/khadinakbar/seo-domain-keyword-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/seo-domain-keyword-scraper"
+    },
+    {
+      "slug": "sephora-product-scraper",
+      "title": "Sephora Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/sephora-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/sephora-product-scraper"
+    },
+    {
+      "slug": "shein-product-scraper",
+      "title": "Shein Product Scraper — Prices, Variants & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/shein-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/shein-product-scraper"
+    },
+    {
+      "slug": "shopee-scraper",
+      "title": "Shopee Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/shopee-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/shopee-scraper"
+    },
+    {
+      "slug": "shopify-app-store-scraper",
+      "title": "Shopify App Store Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/shopify-app-store-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/shopify-app-store-scraper"
+    },
+    {
+      "slug": "shopify-products-scraper",
+      "title": "Shopify Products Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/shopify-products-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/shopify-products-scraper"
+    },
+    {
+      "slug": "shopify-all-in-one-scraper",
+      "title": "Shopify Scraper — Products, Collections, Reviews & Emails",
+      "actorUrl": "https://apify.com/khadinakbar/shopify-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/shopify-all-in-one-scraper"
+    },
+    {
+      "slug": "skip-trace-property-owner",
+      "title": "Skip Trace Property Owner — Phone, Email & Address Finder",
+      "actorUrl": "https://apify.com/khadinakbar/skip-trace-property-owner",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/skip-trace-property-owner"
+    },
+    {
+      "slug": "skool-community-scraper",
+      "title": "Skool Community Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/skool-community-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/skool-community-scraper"
+    },
+    {
+      "slug": "skyscanner-flight-scraper",
+      "title": "Skyscanner Flight Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/skyscanner-flight-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/skyscanner-flight-scraper"
+    },
+    {
+      "slug": "local-biz-contact-outreach",
+      "title": "Smart Contact-Form Outreach (MCP-native, Deliverability-Safe)",
+      "actorUrl": "https://apify.com/khadinakbar/local-biz-contact-outreach",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/local-biz-contact-outreach"
+    },
+    {
+      "slug": "snapchat-ads-scraper",
+      "title": "Snapchat Ads Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/snapchat-ads-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/snapchat-ads-scraper"
+    },
+    {
+      "slug": "snapchat-email-scraper",
+      "title": "Snapchat Email Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/snapchat-email-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/snapchat-email-scraper"
+    },
+    {
+      "slug": "snapchat-profile-scraper",
+      "title": "Snapchat Profile Scraper - No Cookies",
+      "actorUrl": "https://apify.com/khadinakbar/snapchat-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/snapchat-profile-scraper"
+    },
+    {
+      "slug": "snapchat-spotlight-scraper",
+      "title": "Snapchat Spotlight Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/snapchat-spotlight-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/snapchat-spotlight-scraper"
+    },
+    {
+      "slug": "snapchat-video-downloader",
+      "title": "Snapchat Video Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/snapchat-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/snapchat-video-downloader"
+    },
+    {
+      "slug": "socialblade-scraper",
+      "title": "Social Blade Scraper — Subscribers, Earnings & Ranks",
+      "actorUrl": "https://apify.com/khadinakbar/socialblade-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/socialblade-scraper"
+    },
+    {
+      "slug": "social-media-influencer-scraper",
+      "title": "Social Media Influencer Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/social-media-influencer-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/social-media-influencer-scraper"
+    },
+    {
+      "slug": "social-media-sentiment-analyzer",
+      "title": "Social Media Sentiment Analyzer",
+      "actorUrl": "https://apify.com/khadinakbar/social-media-sentiment-analyzer",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/social-media-sentiment-analyzer"
+    },
+    {
+      "slug": "software-reviews-all-in-one-scraper",
+      "title": "Software Reviews Scraper — G2, Capterra & TrustRadius",
+      "actorUrl": "https://apify.com/khadinakbar/software-reviews-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/software-reviews-all-in-one-scraper"
+    },
+    {
+      "slug": "soundcloud-artists-scraper",
+      "title": "SoundCloud Artists Scraper — Emails & Socials",
+      "actorUrl": "https://apify.com/khadinakbar/soundcloud-artists-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/soundcloud-artists-scraper"
+    },
+    {
+      "slug": "soundcloud-scraper",
+      "title": "SoundCloud Scraper — Music Data & Artist Emails",
+      "actorUrl": "https://apify.com/khadinakbar/soundcloud-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/soundcloud-scraper"
+    },
+    {
+      "slug": "spotify-artist-scraper",
+      "title": "Spotify Artist Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/spotify-artist-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/spotify-artist-scraper"
+    },
+    {
+      "slug": "spotify-monthly-listeners-scraper",
+      "title": "Spotify Monthly Listeners Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/spotify-monthly-listeners-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/spotify-monthly-listeners-scraper"
+    },
+    {
+      "slug": "spotify-play-count-scraper",
+      "title": "Spotify Play Count Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/spotify-play-count-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/spotify-play-count-scraper"
+    },
+    {
+      "slug": "spotify-all-in-one-scraper",
+      "title": "Spotify Scraper — Artists, Tracks & Playlists",
+      "actorUrl": "https://apify.com/khadinakbar/spotify-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/spotify-all-in-one-scraper"
+    },
+    {
+      "slug": "scrape-steam-store",
+      "title": "Steam Store Scraper — App IDs & Regional Prices",
+      "actorUrl": "https://apify.com/khadinakbar/scrape-steam-store",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/scrape-steam-store"
+    },
+    {
+      "slug": "stepstone-jobs-scraper",
+      "title": "StepStone Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/stepstone-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/stepstone-jobs-scraper"
+    },
+    {
+      "slug": "stock-price-tracker",
+      "title": "Stock Price Tracker — Real-Time Quotes (Stocks, Crypto, Forex)",
+      "actorUrl": "https://apify.com/khadinakbar/stock-price-tracker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/stock-price-tracker"
+    },
+    {
+      "slug": "subreddit-posts-search-scraper",
+      "title": "Subreddit Posts Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/subreddit-posts-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/subreddit-posts-search-scraper"
+    },
+    {
+      "slug": "substack-posts-scraper",
+      "title": "Substack Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/substack-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/substack-posts-scraper"
+    },
+    {
+      "slug": "target-product-reviews-scraper",
+      "title": "Target Product Reviews Scraper - Ratings & Text",
+      "actorUrl": "https://apify.com/khadinakbar/target-product-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/target-product-reviews-scraper"
+    },
+    {
+      "slug": "target-product-search-scraper",
+      "title": "Target Product Search Scraper — Price & Stock Data",
+      "actorUrl": "https://apify.com/khadinakbar/target-product-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/target-product-search-scraper"
+    },
+    {
+      "slug": "telegram-channel-scraper",
+      "title": "Telegram Channels Scraper: Messages, Contacts & Leads",
+      "actorUrl": "https://apify.com/khadinakbar/telegram-channel-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/telegram-channel-scraper"
+    },
+    {
+      "slug": "telegram-media-downloader",
+      "title": "Telegram Media Downloader — Photos, Videos & Files, No Login",
+      "actorUrl": "https://apify.com/khadinakbar/telegram-media-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/telegram-media-downloader"
+    },
+    {
+      "slug": "terabox-video-downloader",
+      "title": "Terabox Video Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/terabox-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/terabox-video-downloader"
+    },
+    {
+      "slug": "thomasnet-suppliers-scraper",
+      "title": "ThomasNet Suppliers Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/thomasnet-suppliers-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/thomasnet-suppliers-scraper"
+    },
+    {
+      "slug": "threads-posts-scraper",
+      "title": "Threads Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/threads-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/threads-posts-scraper"
+    },
+    {
+      "slug": "meta-threads-profile-posts-scraper",
+      "title": "Threads Scraper — Profile Posts, Media & Engagement",
+      "actorUrl": "https://apify.com/khadinakbar/meta-threads-profile-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/meta-threads-profile-posts-scraper"
+    },
+    {
+      "slug": "threads-search-scraper",
+      "title": "Threads Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/threads-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/threads-search-scraper"
+    },
+    {
+      "slug": "tiktok-ads-library-scraper",
+      "title": "TikTok Ads Library Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-ads-library-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-ads-library-scraper"
+    },
+    {
+      "slug": "tiktok-ads-scraper",
+      "title": "TikTok Ads Scraper — Creative Center Top Ads",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-ads-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-ads-scraper"
+    },
+    {
+      "slug": "tiktok-comments-scraper",
+      "title": "TikTok Comments Scraper - Replies & Authors",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-comments-scraper"
+    },
+    {
+      "slug": "tiktok-video-comments-scraper",
+      "title": "TikTok Comments Scraper - Replies & Authors",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-video-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-video-comments-scraper"
+    },
+    {
+      "slug": "tiktok-followers-scraper",
+      "title": "TikTok Followers Scraper - Followers & Following",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-followers-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-followers-scraper"
+    },
+    {
+      "slug": "tiktok-following-scraper",
+      "title": "TikTok Following Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-following-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-following-scraper"
+    },
+    {
+      "slug": "tiktok-hashtag-scraper",
+      "title": "TikTok Hashtag Scraper - Video Analytics",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-hashtag-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-hashtag-scraper"
+    },
+    {
+      "slug": "tiktok-live-scraper",
+      "title": "TikTok Live Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-live-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-live-scraper"
+    },
+    {
+      "slug": "tiktok-profile-posts-scraper",
+      "title": "TikTok Profile Posts Scraper - Creator Feed Data",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-profile-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-profile-posts-scraper"
+    },
+    {
+      "slug": "tiktok-profile-scraper",
+      "title": "TikTok Profile Scraper — Followers, Bio, Engagement & Videos",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-profile-scraper"
+    },
+    {
+      "slug": "tiktok-profile-videos-scraper",
+      "title": "TikTok Profile Videos Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-profile-videos-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-profile-videos-scraper"
+    },
+    {
+      "slug": "tiktok-search-scraper",
+      "title": "TikTok Search Scraper - [Videos, Hashtags & Users]",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-search-scraper"
+    },
+    {
+      "slug": "tiktok-shop-creators-scraper",
+      "title": "TikTok Shop Creators Scraper - Showcase Leads",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-shop-creators-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-shop-creators-scraper"
+    },
+    {
+      "slug": "tiktok-shop-scraper",
+      "title": "TikTok Shop Scraper — Products, Prices & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-shop-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-shop-scraper"
+    },
+    {
+      "slug": "tiktok-sound-scraper",
+      "title": "TikTok Sound Scraper - Music Metadata & Videos",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-sound-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-sound-scraper"
+    },
+    {
+      "slug": "tiktok-transcript-scraper",
+      "title": "TikTok Transcript Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-transcript-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-transcript-scraper"
+    },
+    {
+      "slug": "tiktok-trending-hashtags-scraper",
+      "title": "TikTok Trending Hashtags Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-trending-hashtags-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-trending-hashtags-scraper"
+    },
+    {
+      "slug": "tiktok-trending-videos-scraper",
+      "title": "TikTok Trending Videos Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-trending-videos-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-trending-videos-scraper"
+    },
+    {
+      "slug": "tiktok-user-scraper",
+      "title": "TikTok User Scraper - Public Profile Data",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-user-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-user-scraper"
+    },
+    {
+      "slug": "tiktok-user-search-scraper",
+      "title": "TikTok User Search Scraper - Creator Profiles",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-user-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-user-search-scraper"
+    },
+    {
+      "slug": "tiktok-no-watermark-downloader",
+      "title": "TikTok Video Downloader - No Watermark MP4 + MP3",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-no-watermark-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-no-watermark-downloader"
+    },
+    {
+      "slug": "tiktok-video-scraper",
+      "title": "TikTok Video Scraper - Video Details & Profile Feeds",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-video-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-video-scraper"
+    },
+    {
+      "slug": "tiktok-video-search-scraper",
+      "title": "TikTok Video Search Scraper - Metrics & Filters",
+      "actorUrl": "https://apify.com/khadinakbar/tiktok-video-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tiktok-video-search-scraper"
+    },
+    {
+      "slug": "tokopedia-scraper",
+      "title": "Tokopedia Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tokopedia-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tokopedia-scraper"
+    },
+    {
+      "slug": "tradingview-scraper",
+      "title": "TradingView Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/tradingview-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tradingview-scraper"
+    },
+    {
+      "slug": "tradingview-screener",
+      "title": "TradingView Screener",
+      "actorUrl": "https://apify.com/khadinakbar/tradingview-screener",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tradingview-screener"
+    },
+    {
+      "slug": "tripadvisor-reviews-scraper",
+      "title": "Tripadvisor Reviews Scraper — Ratings, Text & Owner Replies",
+      "actorUrl": "https://apify.com/khadinakbar/tripadvisor-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tripadvisor-reviews-scraper"
+    },
+    {
+      "slug": "tripadvisor-scraper",
+      "title": "TripAdvisor Scraper – Hotels, Restaurants & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/tripadvisor-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/tripadvisor-scraper"
+    },
+    {
+      "slug": "trustpilot-company-scraper",
+      "title": "Trustpilot Company Scraper — Profiles, Search & Categories",
+      "actorUrl": "https://apify.com/khadinakbar/trustpilot-company-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/trustpilot-company-scraper"
+    },
+    {
+      "slug": "trustpilot-reviews-scraper",
+      "title": "Trustpilot Reviews Scraper — Ratings, Replies & Sentiment",
+      "actorUrl": "https://apify.com/khadinakbar/trustpilot-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/trustpilot-reviews-scraper"
+    },
+    {
+      "slug": "trustpilot-all-in-one-scraper",
+      "title": "Trustpilot Scraper — Company Profiles, Search & Categories",
+      "actorUrl": "https://apify.com/khadinakbar/trustpilot-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/trustpilot-all-in-one-scraper"
+    },
+    {
+      "slug": "truth-social-all-in-one-scraper",
+      "title": "Truth Social Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/truth-social-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/truth-social-all-in-one-scraper"
+    },
+    {
+      "slug": "twitch-channel-scraper",
+      "title": "Twitch Channel Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/twitch-channel-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/twitch-channel-scraper"
+    },
+    {
+      "slug": "twitch-email-scraper",
+      "title": "Twitch Email Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/twitch-email-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/twitch-email-scraper"
+    },
+    {
+      "slug": "twitch-videos-scraper",
+      "title": "Twitch Videos Scraper — VOD Metadata & Metrics",
+      "actorUrl": "https://apify.com/khadinakbar/twitch-videos-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/twitch-videos-scraper"
+    },
+    {
+      "slug": "twitter-trends-scraper",
+      "title": "Twitter Trends Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/twitter-trends-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/twitter-trends-scraper"
+    },
+    {
+      "slug": "twitter-profile-followers-scraper",
+      "title": "Twitter/X Scraper — Profiles & Followers",
+      "actorUrl": "https://apify.com/khadinakbar/twitter-profile-followers-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/twitter-profile-followers-scraper"
+    },
+    {
+      "slug": "uber-eats-scraper",
+      "title": "Uber Eats Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/uber-eats-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/uber-eats-scraper"
+    },
+    {
+      "slug": "udemy-coupon-distributor",
+      "title": "Udemy Coupon Distributor — Submit to aggregator sites",
+      "actorUrl": "https://apify.com/khadinakbar/udemy-coupon-distributor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/udemy-coupon-distributor"
+    },
+    {
+      "slug": "udemy-course-scraper",
+      "title": "Udemy Course Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/udemy-course-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/udemy-course-scraper"
+    },
+    {
+      "slug": "unsplash-image-scraper",
+      "title": "Unsplash Image Search Scraper with Attribution",
+      "actorUrl": "https://apify.com/khadinakbar/unsplash-image-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/unsplash-image-scraper"
+    },
+    {
+      "slug": "upwork-job-scraper",
+      "title": "Upwork Job Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/upwork-job-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/upwork-job-scraper"
+    },
+    {
+      "slug": "username-osint-scraper",
+      "title": "Username Search Scraper — 480+ Sites (OSINT)",
+      "actorUrl": "https://apify.com/khadinakbar/username-osint-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/username-osint-scraper"
+    },
+    {
+      "slug": "video-subtitle-extractor",
+      "title": "Video Subtitle & Caption Extractor",
+      "actorUrl": "https://apify.com/khadinakbar/video-subtitle-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/video-subtitle-extractor"
+    },
+    {
+      "slug": "vimeo-video-downloader",
+      "title": "Vimeo Video Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/vimeo-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/vimeo-video-downloader"
+    },
+    {
+      "slug": "vinted-scraper",
+      "title": "Vinted Scraper — Listings & Item Details",
+      "actorUrl": "https://apify.com/khadinakbar/vinted-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/vinted-scraper"
+    },
+    {
+      "slug": "visa-sponsored-jobs-scraper",
+      "title": "Visa Sponsored Jobs Scraper — International Tech Roles",
+      "actorUrl": "https://apify.com/khadinakbar/visa-sponsored-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/visa-sponsored-jobs-scraper"
+    },
+    {
+      "slug": "vk-groups-scraper",
+      "title": "VK Groups Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/vk-groups-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/vk-groups-scraper"
+    },
+    {
+      "slug": "vk-posts-scraper",
+      "title": "VK Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/vk-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/vk-posts-scraper"
+    },
+    {
+      "slug": "vrbo-scraper",
+      "title": "VRBO Scraper - Vacation Rentals, Prices & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/vrbo-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/vrbo-scraper"
+    },
+    {
+      "slug": "walmart-data-extractor",
+      "title": "Walmart Product, Price and Review Data Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/walmart-data-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/walmart-data-extractor"
+    },
+    {
+      "slug": "walmart-reviews-scraper",
+      "title": "Walmart Reviews Scraper - All Reviews by URL, ID or Keyword",
+      "actorUrl": "https://apify.com/khadinakbar/walmart-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/walmart-reviews-scraper"
+    },
+    {
+      "slug": "wayfair-scraper",
+      "title": "Wayfair Scraper — Furniture Prices, Specs & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/wayfair-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/wayfair-scraper"
+    },
+    {
+      "slug": "web-unlocker",
+      "title": "Web Unlocker",
+      "actorUrl": "https://apify.com/khadinakbar/web-unlocker",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/web-unlocker"
+    },
+    {
+      "slug": "website-uptime-monitor",
+      "title": "Website Uptime Monitor for SSL and Content",
+      "actorUrl": "https://apify.com/khadinakbar/website-uptime-monitor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/website-uptime-monitor"
+    },
+    {
+      "slug": "weibo-scraper",
+      "title": "Weibo Scraper - Hot Topics & Public Posts",
+      "actorUrl": "https://apify.com/khadinakbar/weibo-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/weibo-scraper"
+    },
+    {
+      "slug": "welcome-to-the-jungle-jobs-scraper",
+      "title": "Welcome to the Jungle Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/welcome-to-the-jungle-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/welcome-to-the-jungle-jobs-scraper"
+    },
+    {
+      "slug": "wellfound-jobs-scraper",
+      "title": "Wellfound Jobs Scraper - Salary, Equity & Remote",
+      "actorUrl": "https://apify.com/khadinakbar/wellfound-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/wellfound-jobs-scraper"
+    },
+    {
+      "slug": "whatsapp-number-validator",
+      "title": "WhatsApp Number Validator — Live Registration Check",
+      "actorUrl": "https://apify.com/khadinakbar/whatsapp-number-validator",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/whatsapp-number-validator"
+    },
+    {
+      "slug": "woocommerce-product-scraper",
+      "title": "WooCommerce Product Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/woocommerce-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/woocommerce-product-scraper"
+    },
+    {
+      "slug": "workable-jobs-scraper",
+      "title": "Workable Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/workable-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/workable-jobs-scraper"
+    },
+    {
+      "slug": "workday-jobs-scraper",
+      "title": "Workday Jobs Scraper — Public Career Boards",
+      "actorUrl": "https://apify.com/khadinakbar/workday-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/workday-jobs-scraper"
+    },
+    {
+      "slug": "x-tweet-scraper",
+      "title": "X (Twitter) Tweet Scraper | Search, Hashtags & Profiles",
+      "actorUrl": "https://apify.com/khadinakbar/x-tweet-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-tweet-scraper"
+    },
+    {
+      "slug": "x-community-members-scraper",
+      "title": "X Community Members Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/x-community-members-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-community-members-scraper"
+    },
+    {
+      "slug": "x-community-tweets-scraper",
+      "title": "X Community Tweets Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/x-community-tweets-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-community-tweets-scraper"
+    },
+    {
+      "slug": "x-tweet-engagement-scraper",
+      "title": "X Tweet Engagement Scraper - Replies, Quotes & Retweets",
+      "actorUrl": "https://apify.com/khadinakbar/x-tweet-engagement-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-tweet-engagement-scraper"
+    },
+    {
+      "slug": "x-twitter-profile-scraper",
+      "title": "X Twitter Profile Scraper - Public Profile Details",
+      "actorUrl": "https://apify.com/khadinakbar/x-twitter-profile-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-twitter-profile-scraper"
+    },
+    {
+      "slug": "x-twitter-replies-scraper",
+      "title": "X Twitter Replies Scraper - [No Cookies]",
+      "actorUrl": "https://apify.com/khadinakbar/x-twitter-replies-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-twitter-replies-scraper"
+    },
+    {
+      "slug": "x-twitter-search-scraper",
+      "title": "X Twitter Search Scraper - Tweets, People & Media",
+      "actorUrl": "https://apify.com/khadinakbar/x-twitter-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-twitter-search-scraper"
+    },
+    {
+      "slug": "x-twitter-trends-scraper",
+      "title": "X Twitter Trends Scraper - Country Trends API",
+      "actorUrl": "https://apify.com/khadinakbar/x-twitter-trends-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/x-twitter-trends-scraper"
+    },
+    {
+      "slug": "xing-jobs-scraper",
+      "title": "XING Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/xing-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/xing-jobs-scraper"
+    },
+    {
+      "slug": "ycombinator-scraper",
+      "title": "Y Combinator Scraper — Companies, Founders & Jobs",
+      "actorUrl": "https://apify.com/khadinakbar/ycombinator-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ycombinator-scraper"
+    },
+    {
+      "slug": "yahoo-finance-scraper",
+      "title": "Yahoo Finance Scraper — Quotes, Financials, History, Options",
+      "actorUrl": "https://apify.com/khadinakbar/yahoo-finance-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/yahoo-finance-scraper"
+    },
+    {
+      "slug": "yandex-maps-scraper",
+      "title": "Yandex Maps Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/yandex-maps-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/yandex-maps-scraper"
+    },
+    {
+      "slug": "yellow-pages-uae-scraper",
+      "title": "Yellow Pages UAE Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/yellow-pages-uae-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/yellow-pages-uae-scraper"
+    },
+    {
+      "slug": "yellow-pages-us-scraper",
+      "title": "Yellow Pages US Business Scraper — Phone, Email & Address",
+      "actorUrl": "https://apify.com/khadinakbar/yellow-pages-us-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/yellow-pages-us-scraper"
+    },
+    {
+      "slug": "yelp-reviews-scraper",
+      "title": "Yelp Reviews Scraper for Business Feedback",
+      "actorUrl": "https://apify.com/khadinakbar/yelp-reviews-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/yelp-reviews-scraper"
+    },
+    {
+      "slug": "yelp-scraper-all-in-one",
+      "title": "Yelp Scraper - Extract Business Data, Contacts & Reviews",
+      "actorUrl": "https://apify.com/khadinakbar/yelp-scraper-all-in-one",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/yelp-scraper-all-in-one"
+    },
+    {
+      "slug": "youtube-ai-transcript-extractor",
+      "title": "YouTube AI Transcript Extractor",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-ai-transcript-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-ai-transcript-extractor"
+    },
+    {
+      "slug": "youtube-channel-email-extractor",
+      "title": "YouTube Channel Email Scraper — Emails, Phones & Socials",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-channel-email-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-channel-email-extractor"
+    },
+    {
+      "slug": "youtube-channel-scraper",
+      "title": "YouTube Channel Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-channel-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-channel-scraper"
+    },
+    {
+      "slug": "youtube-channel-videos-scraper",
+      "title": "YouTube Channel Videos Scraper — Metadata & Metrics",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-channel-videos-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-channel-videos-scraper"
+    },
+    {
+      "slug": "youtube-comments-scraper",
+      "title": "YouTube Comments Scraper (with Replies)",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-comments-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-comments-scraper"
+    },
+    {
+      "slug": "youtube-community-posts-scraper",
+      "title": "YouTube Community Posts Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-community-posts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-community-posts-scraper"
+    },
+    {
+      "slug": "youtube-playlist-scraper",
+      "title": "YouTube Playlist Scraper — Public Video Metadata",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-playlist-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-playlist-scraper"
+    },
+    {
+      "slug": "youtube-search-scraper",
+      "title": "YouTube Search Scraper — Videos, Channels & Playlists",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-search-scraper"
+    },
+    {
+      "slug": "youtube-shorts-scraper",
+      "title": "YouTube Shorts Scraper — Views, Likes & Viral Score",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-shorts-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-shorts-scraper"
+    },
+    {
+      "slug": "youtube-to-mp3-downloader",
+      "title": "YouTube to MP3 Downloader",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-to-mp3-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-to-mp3-downloader"
+    },
+    {
+      "slug": "youtube-transcript-extractor",
+      "title": "YouTube Transcript and Subtitle Data Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-transcript-extractor",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-transcript-extractor"
+    },
+    {
+      "slug": "youtube-trending-videos-scraper",
+      "title": "YouTube Trending Videos Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-trending-videos-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-trending-videos-scraper"
+    },
+    {
+      "slug": "youtube-video-downloader",
+      "title": "YouTube Video Downloader - Videos, Audio and Metadata",
+      "actorUrl": "https://apify.com/khadinakbar/youtube-video-downloader",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/youtube-video-downloader"
+    },
+    {
+      "slug": "zara-product-scraper",
+      "title": "Zara Product Scraper — Prices, Stock & Variants",
+      "actorUrl": "https://apify.com/khadinakbar/zara-product-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/zara-product-scraper"
+    },
+    {
+      "slug": "zillow-agents-scraper",
+      "title": "Zillow Agents Scraper — Profiles & Leads",
+      "actorUrl": "https://apify.com/khadinakbar/zillow-agents-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/zillow-agents-scraper"
+    },
+    {
+      "slug": "zillow-all-in-one-scraper",
+      "title": "Zillow Scraper — Property Listings & Agent Leads",
+      "actorUrl": "https://apify.com/khadinakbar/zillow-all-in-one-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/zillow-all-in-one-scraper"
+    },
+    {
+      "slug": "zillow-search-scraper",
+      "title": "Zillow Search Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/zillow-search-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/zillow-search-scraper"
+    },
+    {
+      "slug": "ziprecruiter-jobs-scraper",
+      "title": "ZipRecruiter Jobs Scraper",
+      "actorUrl": "https://apify.com/khadinakbar/ziprecruiter-jobs-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/ziprecruiter-jobs-scraper"
+    },
+    {
+      "slug": "zumper-scraper",
+      "title": "Zumper Scraper — US Apartments & Houses for Rent",
+      "actorUrl": "https://apify.com/khadinakbar/zumper-scraper",
+      "mcpEntryPoint": "https://mcp.apify.com?tools=khadinakbar/zumper-scraper"
+    }
+  ]
+}
