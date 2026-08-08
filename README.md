@@ -9,7 +9,9 @@ portfolio metadata and direct links only.
 - An MCP entry point for using an available Actor through Apify MCP
 - The Actor title and stable slug needed to find the right tool
 
-The complete machine-readable directory is [actors.json](actors.json).
+Browse the complete human-readable directory: [All Actors](ACTORS.md).
+
+The same records are also available in [actors.json](actors.json).
 
 ## Use an Actor
 
